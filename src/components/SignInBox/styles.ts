@@ -3,6 +3,7 @@ import { getBottomSpace } from 'react-native-iphone-x-helper';
 
 export const styles = StyleSheet.create({
   container: {
+    width: '100%',
     height: 48,
     alignItems: 'center',
     justifyContent: 'center',

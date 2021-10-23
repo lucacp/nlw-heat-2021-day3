@@ -3,6 +3,7 @@
     "name": "nlw-heat-2021-3",
     "slug": "nlw-heat-2021-3",
     "version": "1.0.0",
+    "scheme":"nlw-heat-2021-3",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
