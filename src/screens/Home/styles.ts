@@ -11,7 +11,7 @@ export const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   mainText: {
-    flex: 1,
+    width: '100%',
     backgroundColor: COLORS.BLACK_SECONDARY,
     color: COLORS.PINK,
 
